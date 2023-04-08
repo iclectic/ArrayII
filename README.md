@@ -1,6 +1,8 @@
 # Array Cardio 🏁
 
-This project demonstrates the use of built-in JavaScript Array methods to manipulate arrays of objects. The code is contained within an HTML file that includes a JavaScript code block.
+- This project is an HTML file that includes a script tag with JavaScript code in it. The HTML file can be opened in a web browser, and the JavaScript code can be viewed and executed in the browser's JavaScript console.
+
+- This project demonstrates the use of built-in JavaScript Array methods to manipulate arrays of objects. The code is contained within an HTML file that includes a JavaScript code block.
 
 ## Data
 
