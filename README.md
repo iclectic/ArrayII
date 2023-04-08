@@ -64,14 +64,6 @@ const index = comments.findIndex(comment => comment.id === 823423);
 console.log(index);
 ```
 
-### `Array.prototype.splice()`
+## Conclusion
 
-Deletes the comment object with the ID of 823423 from the `comments` array using the `splice()` method. This line is currently commented out.
-
-```
-// comments.splice(index, 1);
-```
-
-## Create a new Array with `slice()` and the spread operator
-
-Creates a new array `newComments` that contains all the comments before and after the deleted comment. The `slice()` method is used to extract the arrays before and after the deleted comment, which are then combined using the spread operator. However, there is a mistake in this code block as the second slice should end at `index +
+This code demonstrates some common array methods in JavaScript and how they can be used to manipulate arrays in various ways.
